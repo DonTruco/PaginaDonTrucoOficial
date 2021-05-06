@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background: #D1913C;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFD194, #D1913C);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFD194, #D1913C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: 'Lobster', cursive;
+    font-weight: lighter;
+    font-size: 40px;
+}
+
+a {
+    color: rgb(42, 41, 41);
+    list-style: none;
+    text-decoration: none;
+}
+
+.letra {
+    margin-left: 10px;
+    padding-top: 220px;
+    display: table;
+    transition: all 1s ease-in-out;
+}
+
+img {
+    position: relative;
+}
+
